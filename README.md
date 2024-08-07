@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LoganZap
-- 🚀 I'm currently working on Shopify Projects
-- 🌱 I’m currently learning JavaScript
+- 🚀 I’m currently developing .NET applications with C#
+- 🌱 Expanding my skills in advanced C# and .NET technologies
 - 💬 Ask me about Shopify Store Setups
 - 📫 How to reach me contact@loganguerra.dev
