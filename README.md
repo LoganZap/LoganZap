@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LoganZap
 - 🚀 I’m currently developing .NET applications with C#
-- 🌱 Expanding my skills in advanced C# and .NET technologies
-- 💬 Ask me about Shopify Store Setups
+- 🌱 Expanding my skills in Low Latency programming
+- 💬 Ask me about Shopify Development
 - 📫 How to reach me contact@loganguerra.dev
