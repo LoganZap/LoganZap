@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LoganZap
-- 🚀 I’m currently developing .NET applications with C#
-- 🌱 Expanding my skills in Low Latency programming
+- 🚀 I’m currently developing a Mobile Application with Swift
+- 🌱 Expanding my skills in Flutter programming
 - 💬 Ask me about Shopify Development
 - 📫 How to reach me contact@loganguerra.dev
